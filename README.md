@@ -1,2 +1,2 @@
 # Movie_genre_classification
-Multiclass classification of movies into its respective genre 
+After analysing plot summary of a movie we classify them into a specific genre. 
